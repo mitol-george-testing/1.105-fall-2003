@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6ed898e4-0ac1-e2ff-7068-fd73360978a0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Solid Mechanics Laboratory",
+  "course_description": "This course introduces students to basic properties of structural materials and behavior of simple structural elements and systems through a series of experiments. Students learn experimental technique, data collection, reduction and analysis, and presentation of results. Students generally take this subject during the same semester as [1.050](courses/1-050-solid-mechanics-fall-2004), Solid Mechanics.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.105",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
